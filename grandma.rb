@@ -14,8 +14,7 @@
 def speak_to_grandma( "" )
   if "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY"
-  elsif condition
-     "Hi!"
+  elsif "Hi!"
     puts "HUH?! SPEAK UP, SONNY!"
   elsif "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
